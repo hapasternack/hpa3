@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name HPA-1-rescue)(type Legacy)(uri ${KIPRJMOD}/DIY-HPA-1-rescue.lib)(options "")(descr ""))
+  (lib (name DIY-HPA-1-rescue)(type Legacy)(uri ${KIPRJMOD}/DIY-HPA-1-rescue.lib)(options "")(descr ""))
+)
